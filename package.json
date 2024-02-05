@@ -1,0 +1,14 @@
+{
+  "name": "ci-extras",
+  "version": "1.0.0",
+  "description": "sandbox for playing with tools from https://acrolinx.atlassian.net/wiki/spaces/~901623409/pages/3801579695/Interesting+web+pages+for+Samir#Writing-bash-like-script-with-ts%2Fjs-(chatGPT)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fs-extra": "^11.2.0"
+  }
+}
